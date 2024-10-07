@@ -8,7 +8,7 @@ This project examines layoffs across various industries, countries, and companie
 
 Dataset
 
-- Source: This datset is originally from Kaggle, but accessed through AlexTheAnalyst's GitHub repository: https://github.com/AlexTheAnalyst/MySQL-YouTube-Series/blob/main/layoffs.csv
+- Source: This datset is originally from Kaggle: https://www.kaggle.com/datasets/swaptr/layoffs-2022, but accessed through AlexTheAnalyst's GitHub repository: https://github.com/AlexTheAnalyst/MySQL-YouTube-Series/blob/main/layoffs.csv
 - Timeframe: January 2020 - March 2023 (data collection cutoff)
 - Industries: Data, finance, healthcare, transportation, consumer, education etc.
 - Countries: United States, Brazil, Canada, Nigeria, Germany, Denmark etc. 
